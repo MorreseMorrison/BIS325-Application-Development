@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIS325_Week2_Program3_MarkDown", "BIS325_Week2_Program3_MarkDown.csproj", "{F8FA418D-816A-4A0E-BA59-0B5D86EBA877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8FA418D-816A-4A0E-BA59-0B5D86EBA877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8FA418D-816A-4A0E-BA59-0B5D86EBA877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8FA418D-816A-4A0E-BA59-0B5D86EBA877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8FA418D-816A-4A0E-BA59-0B5D86EBA877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1FC0FD1-C15D-4B65-A32F-A276E24D6674}
+	EndGlobalSection
+EndGlobal
