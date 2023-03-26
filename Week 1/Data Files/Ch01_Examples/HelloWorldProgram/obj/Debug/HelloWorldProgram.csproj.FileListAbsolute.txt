@@ -1,0 +1,28 @@
+C:/CSharpProjects/HelloWorldProgram/bin/Debug/HelloWorldProgram.exe.config
+C:/CSharpProjects/HelloWorldProgram/bin/Debug/HelloWorldProgram.exe
+C:/CSharpProjects/HelloWorldProgram/bin/Debug/HelloWorldProgram.pdb
+C:/CSharpProjects/HelloWorldProgram/obj/Debug/HelloWorldProgram.csprojResolveAssemblyReference.cache
+C:/CSharpProjects/HelloWorldProgram/obj/Debug/HelloWorldProgram.exe
+C:/CSharpProjects/HelloWorldProgram/obj/Debug/HelloWorldProgram.pdb
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/AuthorsFirst/Ch01Examples/HelloWorldProgram/bin/Debug/HelloWorldProgram.exe.config
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/AuthorsFirst/Ch01Examples/HelloWorldProgram/obj/Debug/HelloWorldProgram.exe
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/AuthorsFirst/Ch01Examples/HelloWorldProgram/obj/Debug/HelloWorldProgram.pdb
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/AuthorsFirst/Ch01Examples/HelloWorldProgram/bin/Debug/HelloWorldProgram.exe
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/AuthorsFirst/Ch01Examples/HelloWorldProgram/bin/Debug/HelloWorldProgram.pdb
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/AuthorsFirst/Ch01Examples/HelloWorldProgram/obj/Debug/HelloWorldProgram.csprojResolveAssemblyReference.cache
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/AuthorsFirst/Ch01/Ch01Examples/HelloWorldProgram/bin/Debug/HelloWorldProgram.exe.config
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/AuthorsFirst/Ch01/Ch01Examples/HelloWorldProgram/obj/Debug/HelloWorldProgram.exe
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/AuthorsFirst/Ch01/Ch01Examples/HelloWorldProgram/obj/Debug/HelloWorldProgram.pdb
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/RTP/Ch01/Ch01Examples/HelloWorldProgram/bin/Debug/HelloWorldProgram.exe.config
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/RTP/Ch01/Ch01Examples/HelloWorldProgram/obj/Debug/HelloWorldProgram.exe
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/RTP/Ch01/Ch01Examples/HelloWorldProgram/obj/Debug/HelloWorldProgram.pdb
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/RTP/Ch01/Ch01Examples/HelloWorldProgram/bin/Debug/HelloWorldProgram.exe
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/RTP/Ch01/Ch01Examples/HelloWorldProgram/bin/Debug/HelloWorldProgram.pdb
+C:/Users/bdoyle/Documents/CSharp_PublishingFiles/5thEdition/Authoring_5thEdition/RTP/Ch01/Ch01Examples/HelloWorldProgram/obj/Debug/HelloWorldProgram.csprojResolveAssemblyReference.cache
+/Users/resemoney/Library/Mobile Documents/com~apple~CloudDocs/Perice College (Philadelphia PA)/Current Classes/BIS 325 - Application Development/Week 1/Data Files/Ch01_Examples/HelloWorldProgram/bin/Debug/HelloWorldProgram.exe.config
+/Users/resemoney/Library/Mobile Documents/com~apple~CloudDocs/Perice College (Philadelphia PA)/Current Classes/BIS 325 - Application Development/Week 1/Data Files/Ch01_Examples/HelloWorldProgram/bin/Debug/HelloWorldProgram.exe
+/Users/resemoney/Library/Mobile Documents/com~apple~CloudDocs/Perice College (Philadelphia PA)/Current Classes/BIS 325 - Application Development/Week 1/Data Files/Ch01_Examples/HelloWorldProgram/bin/Debug/HelloWorldProgram.pdb
+/Users/resemoney/Library/Mobile Documents/com~apple~CloudDocs/Perice College (Philadelphia PA)/Current Classes/BIS 325 - Application Development/Week 1/Data Files/Ch01_Examples/HelloWorldProgram/obj/Debug/HelloWorldProgram.csproj.AssemblyReference.cache
+/Users/resemoney/Library/Mobile Documents/com~apple~CloudDocs/Perice College (Philadelphia PA)/Current Classes/BIS 325 - Application Development/Week 1/Data Files/Ch01_Examples/HelloWorldProgram/obj/Debug/HelloWorldProgram.csproj.CoreCompileInputs.cache
+/Users/resemoney/Library/Mobile Documents/com~apple~CloudDocs/Perice College (Philadelphia PA)/Current Classes/BIS 325 - Application Development/Week 1/Data Files/Ch01_Examples/HelloWorldProgram/obj/Debug/HelloWorldProgram.exe
+/Users/resemoney/Library/Mobile Documents/com~apple~CloudDocs/Perice College (Philadelphia PA)/Current Classes/BIS 325 - Application Development/Week 1/Data Files/Ch01_Examples/HelloWorldProgram/obj/Debug/HelloWorldProgram.pdb
