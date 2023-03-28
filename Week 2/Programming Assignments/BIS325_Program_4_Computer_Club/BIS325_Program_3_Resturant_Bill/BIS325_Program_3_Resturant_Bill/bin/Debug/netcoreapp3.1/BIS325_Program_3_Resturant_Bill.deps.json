@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BIS325_Program_3_Resturant_Bill/1.0.0": {
+        "runtime": {
+          "BIS325_Program_3_Resturant_Bill.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BIS325_Program_3_Resturant_Bill/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
