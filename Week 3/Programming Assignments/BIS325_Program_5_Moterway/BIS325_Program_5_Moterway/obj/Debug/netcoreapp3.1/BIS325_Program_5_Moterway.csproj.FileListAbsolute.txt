@@ -1,0 +1,13 @@
+/Users/resemoney/Desktop/BIS325_Program_5_Moterway/BIS325_Program_5_Moterway/bin/Debug/netcoreapp3.1/BIS325_Program_5_Moterway.deps.json
+/Users/resemoney/Desktop/BIS325_Program_5_Moterway/BIS325_Program_5_Moterway/bin/Debug/netcoreapp3.1/BIS325_Program_5_Moterway.runtimeconfig.json
+/Users/resemoney/Desktop/BIS325_Program_5_Moterway/BIS325_Program_5_Moterway/bin/Debug/netcoreapp3.1/BIS325_Program_5_Moterway.runtimeconfig.dev.json
+/Users/resemoney/Desktop/BIS325_Program_5_Moterway/BIS325_Program_5_Moterway/bin/Debug/netcoreapp3.1/BIS325_Program_5_Moterway.dll
+/Users/resemoney/Desktop/BIS325_Program_5_Moterway/BIS325_Program_5_Moterway/bin/Debug/netcoreapp3.1/BIS325_Program_5_Moterway.pdb
+/Users/resemoney/Desktop/BIS325_Program_5_Moterway/BIS325_Program_5_Moterway/obj/Debug/netcoreapp3.1/BIS325_Program_5_Moterway.csproj.AssemblyReference.cache
+/Users/resemoney/Desktop/BIS325_Program_5_Moterway/BIS325_Program_5_Moterway/obj/Debug/netcoreapp3.1/BIS325_Program_5_Moterway.GeneratedMSBuildEditorConfig.editorconfig
+/Users/resemoney/Desktop/BIS325_Program_5_Moterway/BIS325_Program_5_Moterway/obj/Debug/netcoreapp3.1/BIS325_Program_5_Moterway.AssemblyInfoInputs.cache
+/Users/resemoney/Desktop/BIS325_Program_5_Moterway/BIS325_Program_5_Moterway/obj/Debug/netcoreapp3.1/BIS325_Program_5_Moterway.AssemblyInfo.cs
+/Users/resemoney/Desktop/BIS325_Program_5_Moterway/BIS325_Program_5_Moterway/obj/Debug/netcoreapp3.1/BIS325_Program_5_Moterway.csproj.CoreCompileInputs.cache
+/Users/resemoney/Desktop/BIS325_Program_5_Moterway/BIS325_Program_5_Moterway/obj/Debug/netcoreapp3.1/BIS325_Program_5_Moterway.dll
+/Users/resemoney/Desktop/BIS325_Program_5_Moterway/BIS325_Program_5_Moterway/obj/Debug/netcoreapp3.1/BIS325_Program_5_Moterway.pdb
+/Users/resemoney/Desktop/BIS325_Program_5_Moterway/BIS325_Program_5_Moterway/obj/Debug/netcoreapp3.1/BIS325_Program_5_Moterway.genruntimeconfig.cache
