@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIS325_Program_8_Profit_Based_On_Sales", "BIS325_Program_8_Profit_Based_On_Sales\BIS325_Program_8_Profit_Based_On_Sales.csproj", "{A9CF1750-F2FC-4039-AFD4-05EDBB89F6C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9CF1750-F2FC-4039-AFD4-05EDBB89F6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CF1750-F2FC-4039-AFD4-05EDBB89F6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9CF1750-F2FC-4039-AFD4-05EDBB89F6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9CF1750-F2FC-4039-AFD4-05EDBB89F6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7458E2A-0B7B-4511-AD5F-B658B941A41B}
+	EndGlobalSection
+EndGlobal

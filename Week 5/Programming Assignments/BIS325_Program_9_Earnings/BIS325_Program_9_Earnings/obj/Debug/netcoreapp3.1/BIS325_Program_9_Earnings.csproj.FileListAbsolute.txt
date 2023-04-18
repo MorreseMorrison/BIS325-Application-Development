@@ -1,0 +1,13 @@
+/Users/resemoney/Desktop/BIS325_Program_9_Earnings/BIS325_Program_9_Earnings/bin/Debug/netcoreapp3.1/BIS325_Program_9_Earnings.deps.json
+/Users/resemoney/Desktop/BIS325_Program_9_Earnings/BIS325_Program_9_Earnings/bin/Debug/netcoreapp3.1/BIS325_Program_9_Earnings.runtimeconfig.json
+/Users/resemoney/Desktop/BIS325_Program_9_Earnings/BIS325_Program_9_Earnings/bin/Debug/netcoreapp3.1/BIS325_Program_9_Earnings.runtimeconfig.dev.json
+/Users/resemoney/Desktop/BIS325_Program_9_Earnings/BIS325_Program_9_Earnings/bin/Debug/netcoreapp3.1/BIS325_Program_9_Earnings.dll
+/Users/resemoney/Desktop/BIS325_Program_9_Earnings/BIS325_Program_9_Earnings/bin/Debug/netcoreapp3.1/BIS325_Program_9_Earnings.pdb
+/Users/resemoney/Desktop/BIS325_Program_9_Earnings/BIS325_Program_9_Earnings/obj/Debug/netcoreapp3.1/BIS325_Program_9_Earnings.csproj.AssemblyReference.cache
+/Users/resemoney/Desktop/BIS325_Program_9_Earnings/BIS325_Program_9_Earnings/obj/Debug/netcoreapp3.1/BIS325_Program_9_Earnings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/resemoney/Desktop/BIS325_Program_9_Earnings/BIS325_Program_9_Earnings/obj/Debug/netcoreapp3.1/BIS325_Program_9_Earnings.AssemblyInfoInputs.cache
+/Users/resemoney/Desktop/BIS325_Program_9_Earnings/BIS325_Program_9_Earnings/obj/Debug/netcoreapp3.1/BIS325_Program_9_Earnings.AssemblyInfo.cs
+/Users/resemoney/Desktop/BIS325_Program_9_Earnings/BIS325_Program_9_Earnings/obj/Debug/netcoreapp3.1/BIS325_Program_9_Earnings.csproj.CoreCompileInputs.cache
+/Users/resemoney/Desktop/BIS325_Program_9_Earnings/BIS325_Program_9_Earnings/obj/Debug/netcoreapp3.1/BIS325_Program_9_Earnings.dll
+/Users/resemoney/Desktop/BIS325_Program_9_Earnings/BIS325_Program_9_Earnings/obj/Debug/netcoreapp3.1/BIS325_Program_9_Earnings.pdb
+/Users/resemoney/Desktop/BIS325_Program_9_Earnings/BIS325_Program_9_Earnings/obj/Debug/netcoreapp3.1/BIS325_Program_9_Earnings.genruntimeconfig.cache
