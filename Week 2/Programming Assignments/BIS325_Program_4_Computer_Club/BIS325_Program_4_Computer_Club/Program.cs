@@ -6,7 +6,7 @@
 /*Program Purpose: This Program calculates the total gross earnings after taxes, and expenses
  * based off of user input. The user will input how many cases of candy they would like to sell
  * as well as the price per bar to get a revenue total. Once that total is calculated, taxes and total
- * expenses will be subtracted from that revenue so the gross total profit is calculated.
+ * expenses will be subtracted from that revenue total so the gross total profit is calculated.
 */
 using System;
 
