@@ -39,7 +39,7 @@ namespace BIS325_Program_4_Computer_Club
 
 
             //(1 of 4) User Input
-            Console.WriteLine("\nHow Many Cases Do You Intend To Sell?(Only Numbers.)");
+            Console.WriteLine("\nHow Many Cases Do You Intend To Sell?(Only Numbers)");
             double Cases_Sold = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("\nGreat! You Intend To Sell " + Cases_Sold + " Cases!");
             Console.WriteLine("\nWhat is the intended Price Per Candy Bar? (As A Reminder, There Are 12 Bars In Each Pack, Use Only Numbers And Decimals.)");
